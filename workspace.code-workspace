@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../template2"
+		},
+		{
+			"path": "../../Desktop/js-100-master"
+		},
+		{
+			"path": "../../Desktop/제로베이스 과제 모음/프로젝트 1/JS 과제/template"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "template2"
+	}
+}

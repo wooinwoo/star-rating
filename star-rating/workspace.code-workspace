@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../Desktop/제로베이스 과제 모음/프로젝트 1/JS 과제/template2"
+		},
+		{
+			"path": "../../../Desktop/js-100-master"
+		},
+		{
+			"path": "../../../Desktop/제로베이스 과제 모음/프로젝트 1/JS 과제/template"
+		},
+		{
+			"path": "../../../Desktop/연습장"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "template3"
+	}
+}
